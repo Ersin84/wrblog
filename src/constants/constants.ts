@@ -1,7 +1,7 @@
 const CONSTANTS = {
   purchaseUrl:
     "https://wromox.wromo.com",
-  liveDemoUrl: "https://wromox.wromo.com.com/",
+  liveDemoUrl: "https://wromox.wromo.com/",
   supportUrl: "https://wromox.wromo.com/",
   documentationUrl: "https://wromox.wromo.com/",
   socials: {
