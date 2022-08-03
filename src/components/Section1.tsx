@@ -7,7 +7,12 @@ const Section1 = () => {
     <section className=" text-left md:max-w-none md:text-center">
       {/* <!-- Main Hero Content --> */}
       <Badge
-        name=" WORDPRESS THEME"
+        name=" REACT APPs
+            WORDPRESS THEME
+           WORDPRESS PLUGINS
+             FLUTTER APPs
+              IONIC APPs
+         "
         color="bg-sky-700 sm:!text-xs !px-5 !py-2"
       />
       <h1 className="mt-4 text-slate-900 font-extrabold text-4xl sm:text-5xl lg:text-6xl  tracking-tight dark:text-white">
