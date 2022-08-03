@@ -19,11 +19,11 @@ const Section1 = () => {
       <h1 className="mt-4 text-slate-900 font-extrabold text-4xl sm:text-5xl lg:text-6xl  tracking-tight dark:text-white">
         <span className="block">Modern & Creative Apps</span>
         <span className="block text-indigo-700">Blog, News & Magazine</span>
-        <span className="block text-orange-700">Wordpress, Theme & Plugins</span>
+        <span className="block text-teal-700">Wordpress, Theme & Plugins</span>
       </h1>
       <p className="block mt-7 text-lg text-slate-700 max-w-3xl mx-auto ">
-        Studio Wromo Powerful functionality of a combination of WordPress, WpGraphql,
-        React & Tailwindcss. <br /> A perfect starting point for your next blog,
+        Studio Wromo all Powerful theme end plugins of Wordpress aand especially we also offer React theme apps or nextjs Ionic apps and Flutter. <br />
+        Recommendation Themes - React & Tailwindcss. <br /> A perfect starting point for your next blog,
         news, magazine site.
       </p>
       <div className="flex mt-12 justify-center">
