@@ -12,15 +12,17 @@ const Section1 = () => {
            WORDPRESS PLUGINS
              FLUTTER APPs
               IONIC APPs
+              NEXTJS APPs
          "
         color="bg-sky-700 sm:!text-xs !px-5 !py-2"
       />
       <h1 className="mt-4 text-slate-900 font-extrabold text-4xl sm:text-5xl lg:text-6xl  tracking-tight dark:text-white">
-        <span className="block">Modern & Creative</span>
+        <span className="block">Modern & Creative Apps</span>
         <span className="block text-indigo-700">Blog, News & Magazine</span>
+        <span className="block text-orange-700">Wordpress, Theme & Plugins</span>
       </h1>
       <p className="block mt-7 text-lg text-slate-700 max-w-3xl mx-auto ">
-        Ncmaz Powerful functionality of a combination of WordPress, WpGraphql,
+        Studio Wromo Powerful functionality of a combination of WordPress, WpGraphql,
         React & Tailwindcss. <br /> A perfect starting point for your next blog,
         news, magazine site.
       </p>
