@@ -5,7 +5,7 @@ import Heading from "./Heading";
 const data = [
   {
     q: "Fast & Powerful?",
-    a: `Ncmaz built with React, WpGrapql and the latest Tailwindcss, Headless Ui. Will bring great and fast user experiences. Perfect starting point for your next blog, news, magazine, podcast, music...`,
+    a: `Studio Wromo built with React, WpGrapql and the latest Tailwindcss, Headless Ui. Will bring great and fast user experiences. Perfect starting point for your next blog, news, magazine, podcast, music...`,
   },
 
   {

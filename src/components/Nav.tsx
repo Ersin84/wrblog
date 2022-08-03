@@ -8,7 +8,7 @@ export const Nav = () => {
     <section className="px-4 sm:px-6 md:px-8 pt-6">
       <div className="flex sm:items-center justify-between ">
         <a href="/#">
-          <span className="sr-only">ncmaz</span>
+          <span className="sr-only">Studio Wromo</span>
           <Logo />
         </a>
         <div className="flex items-center justify-end flex-wrap text-sm space-x-4 md:space-x-8 ml-2">

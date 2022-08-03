@@ -2,6 +2,7 @@ const CONSTANTS = {
   purchaseUrl:
     "https://wromox.wromo.com",
   liveDemoUrl: "https://wromox.wromo.com/",
+  shopnow: "https://www.wromo.com",
   supportUrl: "https://wromox.wromo.com/",
   documentationUrl: "https://wromox.wromo.com/",
   socials: {

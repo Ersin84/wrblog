@@ -10,7 +10,7 @@ const Section5 = () => {
           The <i className="text-orange-600">New Standard</i> for Blog/Magazine
         </h2>
         <p className="max-w-md mx-auto mt-3 text-base text-slate-700 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
-          Purchase ncmaz theme now and build your website
+          Purchase Studio Wromo theme now and build your website
         </p>
 
         <div className="flex justify-center mt-8 space-x-3">
