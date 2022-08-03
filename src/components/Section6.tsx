@@ -12,7 +12,7 @@ const Section6 = () => {
           Studio Wromo<span className="text-indigo-600">.</span>
         </a>
         <p className="mt-4 text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l sm:border-gray-700 sm:mt-0">
-          © 2022 Studio Wromo - NghiaxChis Page Builder
+          © 2022 Studio Wromo - MARKETPLACE
         </p>
         <span className="inline-flex justify-center mt-4 space-x-5 sm:ml-auto sm:mt-0 sm:justify-start">
           <a
