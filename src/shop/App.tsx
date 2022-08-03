@@ -1,12 +1,12 @@
-import { Nav } from "components/Nav";
-import Section1 from "components/Section1";
-import Section2 from "components/Section2";
-import Section3 from "components/Section3";
-import Section4 from "components/Section4";
-import Section5 from "components/Section5";
-import Section6 from "components/Section6";
-import { SectionDemos } from "components/SectionDemos";
-import { SectionLayouts } from "components/SectionLayouts";
+import { Nav } from "components-shop-wordpress/Nav";
+import Section1 from "components-shop-wordpress/Section1";
+import Section2 from "components-shop-wordpress/Section2";
+import Section3 from "components-shop-wordpress/Section3";
+import Section4 from "components-shop-wordpress/Section4";
+import Section5 from "components-shop-wordpress/Section5";
+import Section6 from "components-shop-wordpress/Section6";
+import { SectionDemos } from "components-shop-wordpress/SectionDemos";
+import { SectionLayouts } from "components-shop-wordpress/SectionLayouts";
 import React from "react";
 
 function App() {
