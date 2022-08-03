@@ -114,10 +114,10 @@ export const SectionDemos = () => {
     <section className="dark text-slate-200">
       <Heading className="text-center text-slate-100">
         {" "}
-        <i className="text-orange-500"> 7+</i> Home Pages
+        <i className="text-orange-500"> </i> Wordpress Themes
       </Heading>
       <p className="mt-4 text-lg text-center text-slate-300 mx-auto max-w-screen-md">
-        Modern, Elegant & Beautiful home pages for your magazine. <br /> We plan
+        Modern, Elegant & Beautiful themes pages for your wordpress. <br /> We plan
         to show new demos regularly 🍕
       </p>
       <div className="grid md:grid-cols-2 xl:grid-cols-4 gap-x-8 gap-y-11 mt-12">
