@@ -1,6 +1,6 @@
 import React from "react";
 import { Nav } from "./Nav";
-import Section1 from "./Section7";
+import Section7 from "./Section7";
 import Section2 from "./Section2";
 import Section3 from "./Section3";
 import Section4 from "./Section4";
@@ -23,7 +23,7 @@ const LandingPage = () => {
       <div className="relative z-10">
         <Nav />
         <div className="container mx-auto">
-          <Section1 />
+          <Section7 />
           <SectionDemos />
           {/* <SectionLayouts /> */}
           <Section2 />
