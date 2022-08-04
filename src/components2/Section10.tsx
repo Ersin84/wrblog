@@ -18,7 +18,7 @@ const data = [
   },
 ];
 
-const Section4 = () => {
+const Section10 = () => {
   return (
     <section className="relative py-16">
       <Heading
@@ -46,4 +46,4 @@ const Section4 = () => {
   );
 };
 
-export default Section4;
+export default Section10;

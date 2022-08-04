@@ -1,12 +1,12 @@
-import { Nav } from "components/Nav";
-import Section1 from "components/Section1";
-import Section2 from "components/Section2";
-import Section3 from "components/Section3";
-import Section4 from "components/Section4";
-import Section5 from "components/Section5";
-import Section6 from "components/Section6";
-import { SectionDemos } from "components/SectionDemos";
-import { SectionLayouts } from "components/SectionLayouts";
+import { Nav } from "components2/Nav";
+import Section7 from "components2/Section13";
+import Section8 from "components2/Section8";
+import Section9 from "components2/Section9";
+import Section10 from "components2/Section10";
+import Section11 from "components2/Section11";
+import Section12 from "components2/Section12";
+import { SectionDemos } from "components2/SectionDemos";
+import { SectionLayouts } from "components2/SectionLayouts";
 import React from "react";
 
 function App() {
@@ -36,15 +36,15 @@ function App() {
 
         <div className=" bg-slate-900  rounded-3xl dark text-slate-200">
           <div className="container ">
-            <Section2 />
-            <Section3 />
-            <Section4 />
+            <Section8 />
+            <Section9 />
+            <Section10 />
           </div>
         </div>
 
         <div className="container">
-          <Section5 />
-          <Section6 />
+          <Section11 />
+          <Section12 />
         </div>
       </div>
     </div>

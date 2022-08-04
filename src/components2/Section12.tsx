@@ -1,7 +1,7 @@
 import { CONSTANTS } from "constants/constants";
 import React from "react";
 
-const Section6 = () => {
+const Section12 = () => {
   return (
     <section className=" body-font">
       <div className="container  flex flex-col items-center px-8 py-8 mx-auto max-w-7xl sm:flex-row">
@@ -92,4 +92,4 @@ const Section6 = () => {
   );
 };
 
-export default Section6;
+export default Section12;

@@ -26,7 +26,7 @@ const data = [
   },
 ];
 
-const Section3 = () => {
+const Section9 = () => {
   return (
     <section className="flex items-center justify-center py-16">
       <div className="w-full max-w-6xl mx-auto">
@@ -89,4 +89,4 @@ const Section3 = () => {
   );
 };
 
-export default Section3;
+export default Section9;

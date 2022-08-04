@@ -82,7 +82,7 @@ const data = [
   },
 ];
 
-const Section2 = () => {
+const Section8 = () => {
   return (
     <section id="features" className="py-20 max-w-6xl mx-auto">
       <Heading className="text-center">Salient features 🎲</Heading>
@@ -122,4 +122,4 @@ const Section2 = () => {
   );
 };
 
-export default Section2;
+export default Section8;

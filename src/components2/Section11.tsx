@@ -2,7 +2,7 @@ import { ArrowRightIcon } from "@heroicons/react/solid";
 import { CONSTANTS } from "constants/constants";
 import React from "react";
 
-const Section5 = () => {
+const Section11 = () => {
   return (
     <section className="py-20">
       <div className="text-center max-w-7xl mx-auto">
@@ -37,4 +37,4 @@ const Section5 = () => {
   );
 };
 
-export default Section5;
+export default Section11;

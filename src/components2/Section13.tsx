@@ -2,7 +2,7 @@ import { CONSTANTS } from "constants/constants";
 import React from "react";
 import Badge from "./Badge";
 
-const Section1 = () => {
+const Section7 = () => {
   return (
     <section className=" text-left md:max-w-none md:text-center">
       {/* <!-- Main Hero Content --> */}
@@ -58,4 +58,4 @@ const Section1 = () => {
   );
 };
 
-export default Section1;
+export default Section7;
