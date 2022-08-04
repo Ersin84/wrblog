@@ -1,6 +1,6 @@
 import React from "react";
 import { Nav } from "./Nav";
-import Section7 from "./Section13";
+import Section7 from "./Section7";
 import Section8 from "./Section8";
 import Section9 from "./Section9";
 import Section10 from "./Section10";

@@ -1,5 +1,5 @@
 import { Nav } from "components2/Nav";
-import Section7 from "components2/Section13";
+import Section7 from "components2/Section7";
 import Section8 from "components2/Section8";
 import Section9 from "components2/Section9";
 import Section10 from "components2/Section10";
@@ -24,7 +24,7 @@ function App() {
       <div className="relative z-10">
         <Nav />
         <div className="container pb-20 pt-16">
-          <Section1 />
+          <Section7 />
         </div>
 
         <div id="demos" className="py-20 bg-slate-900/90 container rounded-3xl">
