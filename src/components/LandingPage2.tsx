@@ -6,7 +6,7 @@ import Section9 from "./Section9";
 import Section10 from "./Section10";
 import Section11 from "./Section11";
 import Section12 from "./Section12";
-import { SectionDemos } from "./SectionDemos";
+import { SectionDemos } from "./SectionDemos2";
 
 const LandingPage = () => {
   return (

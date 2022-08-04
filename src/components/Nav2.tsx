@@ -1,6 +1,6 @@
 import React from "react";
-import Logo from "components2/Logo";
-import Button from "components2/Button";
+import Logo from "components/Logo";
+import Button from "components/Button";
 import { CONSTANTS } from "constants/constants";
 
 export const Nav = () => {

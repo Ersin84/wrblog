@@ -1,5 +1,5 @@
 import React from "react";
-import Heading from "./Heading";
+import Heading from "./Heading2";
 import home1 from "images/home/1.png";
 import home2 from "images/home/2.png";
 import home3 from "images/home/3.png";
@@ -7,7 +7,7 @@ import home4 from "images/home/4.png";
 import home5 from "images/home/5.png";
 import home6 from "images/home/6.png";
 import homeRTL from "images/home/rtl.png";
-import Badge from "./Badge";
+import Badge from "./Badge2";
 import { ArrowRightIcon } from "@heroicons/react/outline";
 
 export const SectionDemos = () => {

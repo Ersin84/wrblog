@@ -1,12 +1,12 @@
-import { Nav } from "components2/Nav";
-import Section7 from "components2/Section7";
-import Section8 from "components2/Section8";
-import Section9 from "components2/Section9";
-import Section10 from "components2/Section10";
-import Section11 from "components2/Section11";
-import Section12 from "components2/Section12";
-import { SectionDemos } from "components2/SectionDemos";
-import { SectionLayouts } from "components2/SectionLayouts";
+import { Nav } from "components/Nav2";
+import Section7 from "components/Section7";
+import Section8 from "components/Section8";
+import Section9 from "components/Section9";
+import Section10 from "components/Section10";
+import Section11 from "components/Section11";
+import Section12 from "components/Section12";
+import { SectionDemos } from "components/SectionDemos2";
+import { SectionLayouts } from "components/SectionLayouts2";
 import React from "react";
 
 function App() {

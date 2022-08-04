@@ -8,7 +8,7 @@ import single3Img from "images/single3.png";
 import singleVideoImg from "images/singleVideo.png";
 import singleAudioImg from "images/singleAudio.png";
 import singleGalleryImg from "images/singleGallery.png";
-import Badge from "./Badge";
+import Badge from "./Badge2";
 import { ArrowRightIcon } from "@heroicons/react/solid";
 
 export const SectionLayouts = () => {
