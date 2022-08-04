@@ -1,14 +1,14 @@
 import React from "react";
-import { Nav } from "./Nav";
+import { Nav2 } from "./Nav2";
 import Section7 from "./Section7";
 import Section8 from "./Section8";
 import Section9 from "./Section9";
 import Section10 from "./Section10";
 import Section11 from "./Section11";
 import Section12 from "./Section12";
-import { SectionDemos } from "./SectionDemos2";
+import { SectionDemos2 } from "./SectionDemos2";
 
-const LandingPage = () => {
+const LandingPage2 = () => {
   return (
     <div className="relative">
       <div className="fixed inset-0 flex flex-col overflow-hidden justify-center items-center z-0">
@@ -21,10 +21,10 @@ const LandingPage = () => {
       </div>
 
       <div className="relative z-10">
-        <Nav />
+        <Nav2 />
         <div className="container mx-auto">
           <Section7 />
-          <SectionDemos />
+          <SectionDemos2 />
           {/* <SectionLayouts /> */}
           <Section8 />
           {/* <Section9 /> */}
@@ -37,4 +37,4 @@ const LandingPage = () => {
   );
 };
 
-export default LandingPage;
+export default LandingPage2;

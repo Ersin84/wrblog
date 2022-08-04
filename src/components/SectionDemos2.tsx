@@ -10,7 +10,7 @@ import homeRTL from "images/home/rtl.png";
 import Badge from "./Badge2";
 import { ArrowRightIcon } from "@heroicons/react/outline";
 
-export const SectionDemos = () => {
+export const SectionDemos2 = () => {
   const data = [
     {
       img: home1,
@@ -117,8 +117,7 @@ export const SectionDemos = () => {
         <i className="text-orange-500"> </i> Wordpress Themes
       </Heading>
       <p className="mt-4 text-lg text-center text-slate-300 mx-auto max-w-screen-md">
-        Modern, Elegant & Beautiful themes pages for your wordpress. <br /> We plan
-        to show new demos regularly 🍕
+        WORDPRESS <br /> THEMES
       </p>
       <div className="grid md:grid-cols-2 xl:grid-cols-4 gap-x-8 gap-y-11 mt-12">
         {data.map(renderItem)}

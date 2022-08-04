@@ -11,7 +11,7 @@ import singleGalleryImg from "images/singleGallery.png";
 import Badge from "./Badge2";
 import { ArrowRightIcon } from "@heroicons/react/solid";
 
-export const SectionLayouts = () => {
+export const SectionLayouts2 = () => {
   const data = [
     {
       img: archiveImg,
@@ -114,7 +114,7 @@ export const SectionLayouts = () => {
   return (
     <section className="mt-6">
       <h2 className="text-4xl lg:text-5xl font-bold tracking-tight text-center">
-        Template layouts 🧬
+        Template layouts Theme🧬
       </h2>
       <p className="mt-4 text-lg text-center text-gray-600 mx-auto">
         Please login with demo account{" "}

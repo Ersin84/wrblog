@@ -1,12 +1,12 @@
-import { Nav } from "components/Nav2";
+import { Nav2 } from "components/Nav2";
 import Section7 from "components/Section7";
 import Section8 from "components/Section8";
 import Section9 from "components/Section9";
 import Section10 from "components/Section10";
 import Section11 from "components/Section11";
 import Section12 from "components/Section12";
-import { SectionDemos } from "components/SectionDemos2";
-import { SectionLayouts } from "components/SectionLayouts2";
+import { SectionDemos2 } from "components/SectionDemos2";
+import { SectionLayouts2 } from "components/SectionLayouts2";
 import React from "react";
 
 function App() {
@@ -22,16 +22,16 @@ function App() {
       </div>
 
       <div className="relative z-10">
-        <Nav />
+        <Nav2 />
         <div className="container pb-20 pt-16">
           <Section7 />
         </div>
 
         <div id="demos" className="py-20 bg-slate-900/90 container rounded-3xl">
-          <SectionDemos />
+          <SectionDemos2 />
         </div>
         <div id="layouts" className="py-20 container !px-4 rounded-3xl">
-          <SectionLayouts />
+          <SectionLayouts2 />
         </div>
 
         <div className=" bg-slate-900  rounded-3xl dark text-slate-200">

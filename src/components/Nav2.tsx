@@ -3,7 +3,7 @@ import Logo from "components/Logo";
 import Button from "components/Button";
 import { CONSTANTS } from "constants/constants";
 
-export const Nav = () => {
+export const Nav2 = () => {
   return (
     <section className="px-4 sm:px-6 md:px-8 pt-6">
       <div className="flex sm:items-center justify-between ">

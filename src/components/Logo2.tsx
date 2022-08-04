@@ -4,7 +4,7 @@ import logoImg from "images/logo.svg";
 export interface LogoProps {
   src?: string;
 }
-const Logo: FC<LogoProps> = ({ src }) => {
+const Logo2: FC<LogoProps> = ({ src }) => {
   return (
     <img
       className="max-h-12 w-auto flex-shrink-0"
@@ -14,4 +14,4 @@ const Logo: FC<LogoProps> = ({ src }) => {
   );
 };
 
-export default Logo;
+export default Logo2;

@@ -7,7 +7,7 @@ export interface BadgeProps {
   color?: string;
 }
 
-const Badge: FC<BadgeProps> = ({ className = "", name, color, children }) => {
+const Badge2: FC<BadgeProps> = ({ className = "", name, color, children }) => {
   const BACKGROUNDS = [
     "bg-blue-800",
     "bg-pink-800",
@@ -32,4 +32,4 @@ const Badge: FC<BadgeProps> = ({ className = "", name, color, children }) => {
   );
 };
 
-export default Badge;
+export default Badge2;
