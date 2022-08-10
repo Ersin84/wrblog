@@ -16,6 +16,7 @@ const Section1 = () => {
          "
         color="bg-sky-700 sm:!text-xs !px-5 !py-2"
       />
+
       <h1 className="mt-4 text-slate-900 font-extrabold text-4xl sm:text-5xl lg:text-6xl  tracking-tight dark:text-white">
         <span className="block">Modern & Creative Apps</span>
         <span className="block text-indigo-700">Blog, News & Magazine</span>

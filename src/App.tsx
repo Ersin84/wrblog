@@ -1,5 +1,6 @@
 import { Nav } from "components/Nav";
 import Section1 from "components/Section1";
+import PricingPage from "components/PricingPage";
 import Section2 from "components/Section2";
 import Section3 from "components/Section3";
 import Section4 from "components/Section4";
@@ -25,6 +26,9 @@ function App() {
         <Nav />
         <div className="container pb-20 pt-16">
           <Section1 />
+        </div>
+        <div className="container pb-20 pt-16">
+          <PricingPage />
         </div>
 
         <div id="demos" className="py-20 bg-slate-900/90 container rounded-3xl">
